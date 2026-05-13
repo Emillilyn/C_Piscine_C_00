@@ -6,7 +6,7 @@
 /*   By: evavrinu <evavrinu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 15:34:32 by evavrinu          #+#    #+#             */
-/*   Updated: 2026/05/13 15:59:52 by evavrinu         ###   ########.fr       */
+/*   Updated: 2026/05/13 17:03:50 by evavrinu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,10 +41,10 @@ void	ft_print_comb(void)
 	}
 }
 
-void	ft_print_comb(void);
+// void	ft_print_comb(void);
 
-int	main(void)
-{
-	ft_print_comb();
-	return (0);
-}
+// int	main(void)
+// {
+// 	ft_print_comb();
+// 	return (0);
+// }
